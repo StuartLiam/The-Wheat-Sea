@@ -45,7 +45,7 @@ Maol (mo-_ail_), the old village storyteller/seanchaidh (pronounced _Sen_-ah-key
 
 Name someone from the village that is not directly related to you, where are they now? Sean the carpenter's apprentice went off to another town to seek an apprenticeship, because he didn't want to be responsible for taking care of the remaining villagers and kids. On the other hand, Sìm (Sigh-me) the blacksmith's apprentice is apprenticing in town
 
-What did you lose in the relocation that cant be replaced - my father's fiddle
+What did you lose in the relocation that cant be replaced - 
 
 What did you manage to bring with you? My mother's silver cloak pin, given to her by my father as a wedding gift. It's quite plain and sort of sticks out against my outfits, but I always wear it
 
