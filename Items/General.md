@@ -25,7 +25,7 @@ If a player gains an item during an adventure they must have the appropriate amo
 
 ## Armour
 
-Armour capacity is determined by its keyword. See [Armour.md](Armour.md).
+Armour capacity is determined by its keyword. See [[Armour]].
 
 | Keyword | Capacity |
 |---------|----------|

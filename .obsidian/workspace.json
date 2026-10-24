@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "207c0b18b0ecc2fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "d47df860fa8a5218",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2f879f2f5712014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Armour.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Armour"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6249a531fa67392",
+    "type": "split",
+    "children": [
+      {
+        "id": "acb1301c770a5b3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35e8f973eca415c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "919d642966764046",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "835319f5ad1cfe18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d52a788e5d44854a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8f775c9f5757f25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "987cab92593d9d70",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GM_notes/Countries/Cerik/Locations/Molinava.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5829e36c45a90064",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GM_notes/Countries/Cerik/Locations/Molinava.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "affc57fcac50d1d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2b2d5d71cecbfd8b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f6617e988f610e69",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GM_notes/Countries/Cerik/Locations/Molinava.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f2f879f2f5712014",
+  "lastOpenFiles": [
+    "GM_notes/Outgoing_docs/Olorus_Faith.md",
+    "GM_notes/Outgoing_docs/Magic.md",
+    "GM_notes/Outgoing_docs/Celestial.md",
+    "GM_notes/Outgoing_docs/Cerik.md",
+    "GM_notes/Outgoing_docs/The Bezoar.md",
+    "GM_notes/world_naming.md",
+    "GM_notes/Outgoing_docs/world_naming.md",
+    "GM_notes/Outgoing_docs/Stellar-environment.md",
+    "GM_notes/Outgoing_docs/Stellar-environment-written.md",
+    "GM_notes/Outgoing_docs",
+    "GM_notes/Stellar-environment-written.md.tmp.14039.ea3c5339254a",
+    "GM_notes/Stellar-environment-written.md.tmp.14039.39526cad5476",
+    "GM_notes/Stellar-environment-written.md",
+    "World/Stellar-environment-written.md",
+    "GM_notes/world_naming.md.tmp.5716.5fe37cea3e7c",
+    "GM_notes/world_naming.md.tmp.5716.f46baa7e9f08",
+    "GM_notes/Language/Language_Index.md.tmp.5716.73f795b0c346",
+    "GM_notes/GM_Home.md.tmp.5716.edcc9b793dc8",
+    "GM_notes/world_naming.md.tmp.5716.349db6dd6263",
+    "World/Stellar-environment.md",
+    "World",
+    "GM_notes/Language/World",
+    "GM_notes/Magic/atelier_widen_pass_2.md",
+    "GM_notes/Magic/atelier_seed_prompts.md",
+    "GM_notes/Magic/atelier_widen_pass.md",
+    "GM_notes/Magic/spell_theme_ideas.md",
+    "GM_notes/Archive/Language/Common_Languages/Cerik/cerik_dyad_redesign_draft.md",
+    "GM_notes/Archive/Language/Common_Languages/Cerik/User_Notes_cerik.md",
+    "GM_notes/Language/Common_Languages/Cerik/cerik_dyad_redesign_draft.md",
+    "GM_notes/GM_Home.md",
+    "GM_notes/Language/Language_Index.md",
+    "Items/General.md",
+    "Items/Weapons.md",
+    "Language/Uncommon_Languages/Ardulian.md",
+    "GM_notes/Sea_of_Wheat.md",
+    "Changelog.md",
+    "GM_notes/Countries/Cerik/Locations/Molinava_Map.svg"
+  ]
+}

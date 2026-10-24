@@ -1,0 +1,62 @@
+[
+  {
+    "Keyword Name": "Stunned",
+    "Effect": "Make it stronger and weaker",
+    "Catagory": "Debuff"
+  },
+  {
+    "Keyword Name": "Suprise",
+    "Effect": "not instant death",
+    "Catagory": "Debuff"
+  },
+  {
+    "Keyword Name": "Sleep, Comfortable",
+    "Effect": "",
+    "Catagory": ""
+  },
+  {
+    "Keyword Name": "Block Charges",
+    "Effect": "A character has a pool of charges equal to the sum of the block charges of their worn armour. For no action, a creature can expend 1 charge and gain their armours hardness attribute against 1 instance of Bludgening, Slashing or Piercing damage.",
+    "Catagory": "Armour"
+  },
+  {
+    "Keyword Name": "Burning",
+    "Effect": "",
+    "Catagory": "Debuff"
+  },
+  {
+    "Keyword Name": "Weigth",
+    "Effect": "A combination of armour's weight class is determined by the number of weight keywords it has. A creature can fight normally in an armour combination no more than its STR mod.",
+    "Catagory": "Armour"
+  },
+  {
+    "Keyword Name": "Light Armour",
+    "Effect": "0 Weight Keywords. 10 + AC bonus + Dex",
+    "Catagory": "Armour"
+  },
+  {
+    "Keyword Name": "Medium Armour",
+    "Effect": "1-3 Weight Keywords. 10 + AC bonus + Dex(Max 2)",
+    "Catagory": "Armour"
+  },
+  {
+    "Keyword Name": "Heavy Armour",
+    "Effect": "4+ Weight Keywords. 10 + AC bonus",
+    "Catagory": "Armour"
+  },
+  {
+    "Keyword Name": "hardness",
+    "Effect": "A creature gains the sum of all worn armour hardness. If a creature or object takes Bludgening, Slashing or Piercing damage less than their Hardness value. They instead take 0 damage from that source. Mixed damage type attacks are affected, but only the appropriate damage types are negated, however the total damage is still calculated with all types.",
+    "Catagory": "Armour"
+  },
+  {
+    "Keyword Name": "Civilian",
+    "Effect": "Items with this keyword are relativly common and wont be thought of as unusuall in most situations. Ex. Walking into a store in splint mail is weird. Wearing a dublet is not",
+    "Catagory": "General"
+  },
+  {
+    "Keyword Name": "swarm",
+    "Effect": "Enemies with the swarm keyword take max damage from any area effect damage that covers half or more of their occupied space. Save for half still applies",
+    "Catagory": ""
+  }
+]
