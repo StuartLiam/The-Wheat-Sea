@@ -1,6 +1,6 @@
 # Sea of Wheat — Weapons
 
-**Size** determines Carry Capacity per [Genaral.md](General.md): Small = 1, Medium = 2, Large = 4. Large weapons require both hands; cannot use a shield or buckler.
+**Size** determines Carry Capacity per [[General]]: Small = 1, Medium = 2, Large = 4. Large weapons require both hands; cannot use a shield or buckler.
 
 ---
 

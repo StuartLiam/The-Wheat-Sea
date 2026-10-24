@@ -32,3 +32,15 @@ in the place the DM wanted it.
   branch gets mountains.
 
 ---
+
+## Lesson 1: No em dashes in prose
+
+**Rule:** Never use em dashes (—) in written prose. Use a comma, semicolon, colon, or
+parentheses instead, whichever fits the sentence.
+
+**Why:** The DM does not want em dashes in the writing style for this repo.
+
+**How to apply:** Applies to any prose Claude writes or edits in this repo, including
+worldbuilding text, GM_notes content, and character/prologue writing.
+
+---
